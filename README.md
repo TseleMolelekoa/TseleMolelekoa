@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Tsele
-- 👀 I’m interested in OSCP and ethical hackinng
-- 🌱 I’m currently learning cyber sercurity
-- 💞️ I’m looking to collaborate on OSCP and mainly hacking
+- 👋 Hi, I’m @Tsele Molelekoa.
+- 👀 I’m interested in OSCP and ethical hackinng.
+- 🌱 I’m a certified cyber sercurity.
+- 💞️ I’m looking to collaborate on OSCP and mainly hacking.
+- 😊 I'm currently learning Software Development with Capaciti and ABSA.
 - 📫 How to reach me molelekoa58@gmail.com
 
 <!---
