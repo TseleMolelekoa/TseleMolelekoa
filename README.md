@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tsele Molelekoa
-- 🌱 I’m a certified cyber sercurity.
-- 💞️ I’m looking to collaborate on OSCP and mainly hacking.
-- 😊 I'm currently learning Software Development with Capaciti and ABSA.
+- 🌱 I’m a certified cyber security.
+- 😊 I'm currently learning Software Development with Capacity and ABSA.
 - 📫 How to reach me molelekoa58@gmail.com
 
 <!---
