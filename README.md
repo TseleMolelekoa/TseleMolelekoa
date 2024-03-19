@@ -2,4 +2,4 @@
 - 🌱 I’m a certified cyber security.
 - 😊 I'm currently Junior Software Developer with Capacity and ABSA.
 - 📫 How to reach me molelekoa58@gmail.com
-- #Online profile : https://tselemolelekoa.web.app
+- Online profile : https://tselemolelekoa.web.app
